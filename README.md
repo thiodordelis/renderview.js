@@ -13,7 +13,7 @@ My [github](https://thiodordelis.github.io) page is using renderView.JS. Check o
 You need [Node.JS](https://nodejs.org) and [npm](https://npmjs.com)
 
 # Setup
-* Install dependencies with npm: ```npm install showdown jsdom js-beautify```
+* Install dependencies with npm: ```npm install showdown jsdom js-beautify glob```
 
 # Usage
 * Write your content and save it, e.g. ```intro.md```
